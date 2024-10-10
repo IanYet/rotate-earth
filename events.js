@@ -1,5 +1,5 @@
 export const context = {
-	autoRotate: false,
+	autoRotate: true,
 }
 
 export const initEvents = (raycaster, pointer, camera, earth) => {
